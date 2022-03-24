@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnaValverde27
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on frontend projects
+- 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me analizvalverde@gmail.com
 
 <!---
